@@ -1,5 +1,5 @@
 module Redshift
   module Rails
-    VERSION = "0.2.3"
+    VERSION = "0.2.3p"
   end
 end
